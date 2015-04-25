@@ -7,3 +7,5 @@ Typical modifications are:
 
  * Replace malloc w/ statically allocated memory
  * Remove printfs
+
+Implementation names here should *NOT* conflict with SUPERCOP
